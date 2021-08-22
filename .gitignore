@@ -180,3 +180,7 @@ yarn-error.log
 
 # Build
 dist/
+
+# Zip filed from original project backup
+.zip
+_proyecto_original_html_css/
